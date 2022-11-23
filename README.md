@@ -1,5 +1,5 @@
-### Here is KangManJoo's github 😺
-## KONKUK UNIV. CSE 19
+## Here is KangManJoo's github 😺
+### KONKUK UNIV. CSE 19
 
 <!--
 **eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

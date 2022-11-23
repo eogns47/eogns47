@@ -1,4 +1,4 @@
-##                                       Here is KangManJoo's github 😺
+<h1 align="center"> Here is KangManJoo's github 😺</h1>
 <h2 align="center"> KONKUK UNIV. CSE 19</h2>
 
 <!--

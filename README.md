@@ -14,4 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center"> Tech Stack </h3>
+
+<p align="center"> Techs that I've learned </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+    <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+</p>
+</br>
+</br>
+<p align="center">
 <a href="https://opgc.me/#/users/eogns47" target="_blank"><img src="https://api.opgc.me/githubs/users/eogns47/tag/?theme=basic" /></a>
+</p>

@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 <div align="center" >
  <img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=radical&card_width=400"/>
 </div>
+<br>
+<p align=center><a href="https://solved.ac/profile/aru0504"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=aru0504"></a></p>
+

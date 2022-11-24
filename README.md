@@ -43,5 +43,5 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=radical&card_width=400"/>
 </div>
 <br>
-<p align=center><a href="https://solved.ac/profile/eogns47"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=aru0504"></a></p>
+<p align=center><a href="https://solved.ac/profile/eogns47"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=eogns47"></a></p>
 

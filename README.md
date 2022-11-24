@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Here is KangManJoo's github 😺%20&fontSize=90&animation=fadeIn)  
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text="Here is KangManJoo's github😺"%20&fontSize=90&animation=fadeIn)                                                                                                                        
 <!--<h1 align="center"> Here is KangManJoo's github 😺</h1>-->
 <h2 align="center"> KONKUK UNIV. CSE 19</h2>
 

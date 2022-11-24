@@ -41,6 +41,6 @@
 <br>
 <div class="container" align=center style="display:flex; justify-content:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/>
-<a href="https://www.acmicpc.net/user/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
+<a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
   </div>
 

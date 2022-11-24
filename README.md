@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello%20World!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20MeoW😸&fontSize=50)
 
-<h1 align="center"> Here is KangManJoo's github 😺</h1>
-<h2 align="center"> KONKUK UNIV. CSE 19</h2>
+<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>
+<h2 align="center"> Taking a degree course in CSE at KONKUK UNIV</h2>
 
 <!--
 **eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

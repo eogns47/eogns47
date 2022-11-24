@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello%20World!&fontSize=50)
 
 <h1 align="center"> Here is KangManJoo's github 😺</h1>
 <h2 align="center"> KONKUK UNIV. CSE 19</h2>

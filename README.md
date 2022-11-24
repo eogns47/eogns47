@@ -6,7 +6,7 @@
 <!--
 **eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<b>Here are some ideas to get you started:</b>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

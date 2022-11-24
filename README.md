@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 <p align=center><a href="https://solved.ac/profile/eogns47"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=eogns47"></a></p>
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47)(https://solved.ac/eogns47)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47)](https://solved.ac/eogns47)

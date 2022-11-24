@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=radical&card_width=400"/>
 </div>
 <br>
-<p align=center><a href="https://solved.ac/profile/eogns47"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=eogns47"></a></p>
-
+<p align=center>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47)](https://solved.ac/eogns47)
+  </p>

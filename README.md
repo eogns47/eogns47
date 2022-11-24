@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h1 align="center"> Here is KangManJoo's github 😺</h1>
 <h2 align="center"> KONKUK UNIV. CSE 19</h2>

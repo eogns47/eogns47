@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h1 align="center"> Here is KangManJoo's github 😺</h1>
 <h2 align="center"> KONKUK UNIV. CSE 19</h2>
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> 📚Tech Stack📚 </h3>
 
 <p align="center"> Techs that I've learned </p>
 

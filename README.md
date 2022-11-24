@@ -39,11 +39,8 @@ Here are some ideas to get you started:
 <a href="https://opgc.me/#/users/eogns47" target="_blank"><img src="https://api.opgc.me/githubs/users/eogns47/tag/?theme=basic" /></a>
 </p>
 <br>
-<div align="center" >
- <img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=radical&card_width=400"/>
-</div>
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47&align=center)](https://solved.ac/eogns47)
+<div class="container" display=flex justify-content=center>
+<img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=radical&card_width=400"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47">
+  </div>
 

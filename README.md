@@ -44,6 +44,6 @@
 <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
   </div>
   <br>
-  ![CatthankyouGIF](https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif)
+ <img src="https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif")/>
 
 

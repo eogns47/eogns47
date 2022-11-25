@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20github😸&fontSize=50)
 
-<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>
+<!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>-->
 <h2 align="center"> Taking a degree course in CSE at KONKUK UNIV</h2>
 
 <!--

@@ -43,4 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/>
 <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
   </div>
+  <br>
+  ![CatthankyouGIF](https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif)
+
 

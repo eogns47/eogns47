@@ -36,13 +36,13 @@
 </p>
 </br>
 </br>
-<!--<p align="center">
+<p align="center">
 <a href="https://opgc.me/#/users/eogns47" target="_blank"><img src="https://api.opgc.me/githubs/users/eogns47/tag/?theme=basic" /></a>
-</p>-->
+</p>
 <br>
 <div class="container" align=center style="display:flex; justify-content:center;">
-  <a href="https://opgc.me/#/users/eogns47" target="_blank"><img src="https://api.opgc.me/githubs/users/eogns47/tag/?theme=basic" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/>
+
+<img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/>
 <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
  
   <br>

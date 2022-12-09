@@ -36,8 +36,9 @@
 </p>
 </br>
 </br>
-<p align="center">
-<a href="https://opgc.me/#/users/eogns47" target="_blank"><img src="https://api.opgc.me/githubs/users/eogns47/tag/?theme=basic" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eogns47/count.svg" />
 </p>
 <br>
 <div class="container" align=center style="display:flex; justify-content:center;">

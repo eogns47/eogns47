@@ -39,13 +39,12 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/eogns47/count.svg" />
-</p>
 <br>
-<div class="container" align=center style="display:flex; justify-content:center;">
-
 <img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/>
-<a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
- 
+  </p>
+<div class="container" align=center style="display:flex; justify-content:center;">
+  <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
+<img height=195 src="http://mazandi.herokuapp.com/api?handle=eogns47&theme=cold"/>
   <br>
  <img src="https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif")/>
    </div>

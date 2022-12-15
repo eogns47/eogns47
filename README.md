@@ -40,7 +40,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/eogns47/count.svg" />
 <br>
-<a href="https://github.com/eogns47?tab=repositories>"<img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/></a>
+<a href="https://github.com/eogns47?tab=repositories"><img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/></a>
   </p>
 <div class="container" align=center style="display:flex; justify-content:center;">
   <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>

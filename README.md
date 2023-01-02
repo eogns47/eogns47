@@ -17,7 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> 📚Tech Stack📚 </h3>
+<h3 align="center"> 📚Tech Stack!📚 </h3>
 
 <p align="center"> <b>Techs that I've learned</b></p>
 <p align="center"> 👇👇👇👇👇👇👇👇👇👇👇</p>

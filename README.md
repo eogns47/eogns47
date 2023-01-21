@@ -4,7 +4,7 @@
 <h2 align="center"> Taking a degree course in CSE at KONKUK UNIV</h2>
 
 <!--
-**eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 <b>Here are some ideas to get you started:</b>
 

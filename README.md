@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20github😸&fontSize=50)
 
 <!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>-->
-<h2 align="center"> Taking a degree course in CSE at KONKUK UNIV</h2>
+<h2 align="center"> Taking a degree course in CSE at KONKUK UNIV!</h2>
 
 <!--
 **eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

@@ -17,11 +17,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> 📚Tech Stack!📚 </h3>
+<h3 align="center"> Tech Stack! </h3>
 
-<p align="center"> <b>Techs that I've learned</b></p>
-<p align="center"> 👇👇👇👇👇👇👇👇👇👇👇</p>
-
+<p align="center"> <b>✏️Platforms & Languages✏️</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
@@ -33,13 +31,24 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+  <br>
+      <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></a>&nbsp
+  </p>
+  <p align="center"> <b>🛠️Tools🛠️</b></p>
+  <p align="center">
+      <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
+    </p>
+  <p align="center"> <b>📜Tech Blog📜</b></p>
+  <p align="center">
+  <a href="[https://github.com/eogns47?tab=repositories](https://kangmanjoo.tistory.com/)"><img src="https://img.shields.io/badge/만쥬의%20개발일기-000000?style=flat&logo=tistory&logoColor=white"/>  </a>&nbsp
+    </p>
+  
+  
+  
   
 </p>
 </br>

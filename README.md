@@ -34,12 +34,19 @@
   <br>
       <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
+
+  
   </p>
   <p align="center"> <b>🛠️Tools🛠️</b></p>
   <p align="center">
       <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
       <img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
+        <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+            <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+                <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+
+    
     </p>
   <p align="center"> <b>📜Tech Blog📜</b></p>
   <p align="center">

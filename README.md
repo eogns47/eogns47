@@ -17,53 +17,60 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> Tech Stack! </h3>
-
 <p align="center"> <b>✏️Platforms & Languages✏️</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp 
-    <br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
+    <br>
+<!--     Framework and others -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>&nbsp
-  <br>
-      <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+  </br>
+<!--   DB -->
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 
   
-  </p>
-  <p align="center"> <b>🛠️Tools🛠️</b></p>
-  <p align="center">
-      <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
-        <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-            <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-                <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+<p align="center"> <b>🛠️Tools🛠️</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</p>
 
-    
-    </p>
-  <p align="center"> <b>📜Tech Blog📜</b></p>
+<p align="center"><b>🌱currently learning...🌱</b></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  </p>
+  
+<p align="center"> <b>📜Tech Blog📜</b></p>
   <p align="center">
   <a href="[https://github.com/eogns47?tab=repositories](https://kangmanjoo.tistory.com/)"><img src="https://img.shields.io/badge/만쥬의%20개발일기-000000?style=flat&logo=tistory&logoColor=white"/>  </a>&nbsp
-    </p>
+  </p>
+
   
-  
-  
-  
-</p>
 </br>
 </br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/eogns47/count.svg" />
-<br>
-<a href="https://github.com/eogns47?tab=repositories"><img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/></a>
+<!-- <br>
+<a href="https://github.com/eogns47?tab=repositories"><img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/></a> -->
   </p>
 <div class="container" align=center style="display:flex; justify-content:center;">
   <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>

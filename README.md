@@ -34,6 +34,7 @@
   </br>
 <!--   DB -->
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20s3-569A31?style=flat&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
@@ -43,13 +44,13 @@
 <p align="center"> <b>🛠️Tools🛠️</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 <p align="center"><b>🌱currently learning...🌱</b></p>

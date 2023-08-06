@@ -41,7 +41,7 @@
 
   
 </p>
-<p align="center"> <b>🛠️Tools🛠️</b></p>
+<p align="center"><b>🛠️Tools🛠️</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
@@ -67,10 +67,6 @@
 
   
 </br>
-</br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/eogns47/count.svg" />
 <!-- <br>
 <a href="https://github.com/eogns47?tab=repositories"><img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/></a> -->
   </p>
@@ -78,7 +74,11 @@
   <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
 <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazandi.herokuapp.com/api?handle=eogns47&theme=cold"/></a>
   <br>
- <img src="https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif")/>
+  <br>
+<!--  <img src="https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif")/> -->
    </div>
+   <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/eogns47/count.svg" />
 
 

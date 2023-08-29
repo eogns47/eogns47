@@ -34,7 +34,7 @@
   </br>
 <!--   DB -->
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20s3-569A31?style=flat&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">

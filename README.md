@@ -17,7 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <b>✏️Platforms & Languages✏️</b></p>
+<p align="center"> <b>✏️Experienced Platforms & Languages✏️</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 

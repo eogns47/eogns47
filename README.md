@@ -43,7 +43,7 @@
   
 
   
-  
+  </br>
 </p>
 <p align="center"><b>🛠️Tools🛠️</b></p>
 <p align="center">
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
-
+</br>
 <p align="center"><b>🌱currently interesting...🌱</b></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -68,7 +68,7 @@
     
     
   </p>
-  
+  </br>
 <p align="center"> <b>📜Tech Blog📜</b></p>
   <p align="center">
   <a href="[https://github.com/eogns47?tab=repositories](https://kangmanjoo.tistory.com/)"><img src="https://img.shields.io/badge/만쥬의%20개발일기-000000?style=flat&logo=tistory&logoColor=white"/>  </a>&nbsp
@@ -76,8 +76,14 @@
 
   
 </br>
-<!-- <br>
-<a href="https://github.com/eogns47?tab=repositories"><img height=195 src="https://github-readme-stats.vercel.app/api?username=eogns47&show_icons=true&theme=highcontrast&card_width=400"/></a> -->
+<p align="center"> <b>🤝Contribution🤝</b></p>
+  <p align="center">
+    <a href="https://github.com/tldr-pages/tldr">📚 Collaborative cheatsheets for console commands</a>&nbsp</br>
+    <a href="https://github.com/EbookFoundation/free-programming-books">📚 Freely available programming books</a>&nbsp</br>
+    <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a>&nbsp</br>
+    
+  </p>
+
   </p>
 <div class="container" align=center style="display:flex; justify-content:center;">
   <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>

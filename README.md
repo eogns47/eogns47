@@ -37,7 +37,8 @@
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-
+  <img src="https://img.shields.io/badge/kafka-231F20?style=flat&logo=kafka&logoColor=white">
+  
   
 </p>
 <p align="center"><b>🛠️Tools🛠️</b></p>

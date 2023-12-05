@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white">
   </br>
 <!--   DB -->
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
@@ -37,7 +38,10 @@
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/kafka-231F20?style=flat&logo=kafka&logoColor=white">
+  <br>
+    <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+  
+
   
   
 </p>

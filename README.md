@@ -64,12 +64,11 @@
   </br>
   </br>
   
-<!--
+
 <b>🪪Credentials🪪</b>
 |Certificate|Organization|Acquisition Date|
 |:----:|:----:|:----:|
-||||
--->
+|ISTQB CTFL|ISTQB|2024.01.11|
 
 </br>
 

@@ -64,11 +64,12 @@
   </br>
   </br>
   
-
+<!--
 <b>🪪Credentials🪪</b>
 |Certificate|Organization|Acquisition Date|
 |:----:|:----:|:----:|
 ||||
+-->
 
 </br>
 

@@ -22,15 +22,15 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
     <br>
 <!--     Framework and others -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
   </br>
 <!--   DB -->
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
@@ -41,8 +41,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   
   
-  <br>
-    <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+
   
 
   
@@ -60,7 +59,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 </br>
-<p align="center"><b>🌱currently interesting...🌱</b></p>
+<p align="center"><b>🌱currently Learning...🌱</b></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>

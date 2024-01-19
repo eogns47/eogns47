@@ -66,9 +66,10 @@
   
 
 <b>🪪Credentials🪪</b>
-|Certificate|Organization|Acquisition Date|
-|:----:|:----:|:----:|
-|ISTQB CTFL|ISTQB|2024.01.11|
+|Certificate|Grade|Organization|Acquisition Date|
+|:----:|:----:|:----:|:----:|
+|ISTQB|CTFL|ISTQB|2024.01.11|
+|Topcit|Competent|정보통신기획평가원|2023.10.28|
 
 </br>
 

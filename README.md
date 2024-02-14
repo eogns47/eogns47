@@ -81,10 +81,10 @@
 |:----:|:----:|:----:|:----:|
 |Konkuk Univ.|Computer Science|Bachelor|2019.03 ~ |
 |과학기술정보통신부|ICT 멘토링|Mentee|2023.04 ~ 2023.11|
+|Blinder|Dev team|Back-end engineer|2023.06 ~ |
 |OSSCA|Git 활용 및 DevOps/MLOps|Mentee|2023.09 ~ 2023.11|
 |(주)우아한형제들|우테코6 Precourse|Back-end|2023.09 ~ 2023.11|
 |YEHS.Naek|Planning Department 1|Associate Director|2023.12 ~ |
-|Blinder|Dev team|Back-end engineer|2023.06 ~ |
 |(주)포테이토넷|SW Dev team|SW developer|2023.12 ~ 2024.02|
 
 

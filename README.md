@@ -74,16 +74,18 @@
 
 </br>
 
-<!--
+
 <b>🪪Experience🪪</b>
+
 |Organization|department|Position|Date|
 |:----:|:----:|:----:|:----:|
 |Konkuk Univ.|Computer Science|Bachelor|2019.03 ~ |
 |OSSCA|Git 활용 및 DevOps/MLOps|Mentee|2023.09 ~ 2023 11|
 |(주)우아한형제들|우테코6 Precourse|Back-end|2023.09 ~ 2023 11|
-|교내 알고리즘 동아리 ALKON||Mentor|2023.03 ~ 2023 06|
-|Yehs.Naek||Associate Director|2023.12 ~ |
--->
+|YEHS.Naek|Planning Department 1|Associate Director|2023.12 ~ |
+|Blinder||Back-end|2023.06 ~ |
+
+
 
 
 

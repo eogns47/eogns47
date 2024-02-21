@@ -76,17 +76,24 @@
 </br>
 
 
-<b>🪪Experience🪪</b>
+<b>🪪Experiences🪪</b>
 
 |Organization|department|Position|Date|
 |:----:|:----:|:----:|:----:|
 |Konkuk Univ.|Computer Science|Bachelor|2019.03 ~ |
 |과학기술정보통신부|ICT 멘토링|Mentee|2023.04 ~ 2023.11|
-|Blinder|Dev team|Back-end engineer|2023.06 ~ |
+|Blinder|Dev team|Back-end Dev|2023.06 ~ |
 |OSSCA|Git 활용 및 DevOps/MLOps|Mentee|2023.09 ~ 2023.11|
 |(주)우아한형제들|우테코6th Precourse|Back-end|2023.09 ~ 2023.11|
 |YEHS.Naek|Planning Department 1|Associate Director|2023.12 ~ |
 |(주)포테이토넷|SW Dev team|SW developer|2023.12 ~ 2024.02|
+|(주)SK Telecom|Devocean Young|3rd Member|2024.02 ~ |
+|(주)씨티아이앤씨|Infrastructure team|Internship|2024.03 ~ 2024.06|
+
+<b>🏆Prizes🏆</b>
+|Contest|Grade|Organization|Position|Date|
+|:----:|:----:|:----:|:----:|:----:|
+|배리어프리 앱 개발 콘테스트|최우수상(현대오토에버 대표이사 상)|현대오토에버|Back-end Dev|2023.04 ~ 2024.02|
 
 
 

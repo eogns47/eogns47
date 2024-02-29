@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </br>
 </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=eogns47&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"><b>🌱currently Learning...🌱</b></p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>

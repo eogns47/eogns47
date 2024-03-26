@@ -67,15 +67,6 @@
   </br>
   
 
-<b>🪪Credentials🪪</b>
-|Certificate|Grade|Organization|Acquisition Date|
-|:----:|:----:|:----:|:----:|
-|ISTQB|CTFL|ISTQB|2024.01.11|
-|Topcit|Competent|정보통신기획평가원|2023.10.28|
-
-</br>
-
-
 <b>🪪Experiences🪪</b>
 
 |Organization|department|Position|Date|
@@ -94,6 +85,17 @@
 |Contest|Grade|Organization|Position|Date|
 |:----:|:----:|:----:|:----:|:----:|
 |2023 배리어프리 앱 개발 콘테스트|최우수상(현대오토에버 대표이사 상)|현대오토에버|Back-end Dev|2023.04 ~ 2024.02|
+
+</br>
+
+<b>🪪Credentials🪪</b>
+|Certificate|Grade|Organization|Acquisition Date|
+|:----:|:----:|:----:|:----:|
+|ISTQB|CTFL|ISTQB|2024.01.11|
+|Topcit|Competent|정보통신기획평가원|2023.10.28|
+
+</br>
+
 
 
 

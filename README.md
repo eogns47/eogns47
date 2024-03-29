@@ -63,6 +63,8 @@
     <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+      
   </br>
   </br>
   
@@ -80,6 +82,7 @@
 |(주)포테이토넷|SW Dev team|SW developer|2023.12 ~ 2024.02|
 |(주)SK Telecom|Devocean Young|3rd Member|2024.02 ~ |
 |(주)씨티아이앤씨|Infrastructure team|Internship|2024.03 ~ 2024.06|
+|OSSCA|Git 활용 및 Terraform on NAVER Cloud|Mentee|2024.04 ~ 2024.06|
 
 <b>🏆Prizes🏆</b>
 |Contest|Grade|Organization|Position|Date|
@@ -91,8 +94,9 @@
 <b>🪪Credentials🪪</b>
 |Certificate|Grade|Organization|Acquisition Date|
 |:----:|:----:|:----:|:----:|
-|ISTQB|CTFL|ISTQB|2024.01.11|
-|Topcit|Competent|정보통신기획평가원|2023.10.28|
+|SQLD|-|한국데이터산업진흥원|2024.03|
+|ISTQB|CTFL|ISTQB|2024.01|
+|Topcit|Competent|정보통신기획평가원|2023.10|
 
 </br>
 

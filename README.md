@@ -89,6 +89,8 @@
 |Contest|Grade|Organization|Position|Date|
 |:----:|:----:|:----:|:----:|:----:|
 |2023 배리어프리 앱 개발 콘테스트|최우수상(현대오토에버 대표이사 상)|현대오토에버|Back-end Dev|2023.04 ~ 2024.02|
+|Dean's List|성적 우수 장학|Konkuk Univ.|-|2022-2|
+
 
 </br>
 

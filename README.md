@@ -74,6 +74,7 @@
 |Organization|department|Position|Date|
 |:----:|:----:|:----:|:----:|
 |Konkuk Univ.|Computer Science|Bachelor|2019.03 ~ |
+|Konkuk Univ.|알고리즘 동아리 ALKON 1기|Mentor|2023.03 ~ 2023.07|
 |과학기술정보통신부|ICT 멘토링|Mentee|2023.04 ~ 2023.11|
 |Blinder|Dev team|Back-end Dev|2023.06 ~ |
 |OSSCA|Git 활용 및 DevOps/MLOps|Mentee|2023.09 ~ 2023.11|

@@ -84,7 +84,7 @@
 |(주)SK Telecom|Devocean Young|3rd Member|2024.02 ~ |
 |(주)씨티아이앤씨|Infrastructure team|Internship|2024.03 ~ 2024.06|
 |OSSCA|Git 활용 및 Terraform on NAVER Cloud|Mentee|2024.04 ~ 2024.06|
-|과학기술정보통신부|ICT 멘토링|Mentee|2024.04 ~ 2024.11|
+|과학기술정보통신부|ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 구축|Mentee|2024.04 ~ 2024.11|
 
 <b>🏆Prizes🏆</b>
 |Contest|Grade|Organization|Position|Date|

@@ -89,9 +89,9 @@
 <b>🏆Prizes🏆</b>
 |Contest|Grade|Organization|Position|Date|
 |:----:|:----:|:----:|:----:|:----:|
-|2023 배리어프리 앱 개발 콘테스트|최우수상(현대오토에버 대표이사 상)|현대오토에버|Back-end Dev|2023.04 ~ 2024.02|
-|Dean's List|성적 우수 장학|Konkuk Univ.|-|2022-2|
-
+|Dean's List|성적 우수 장학|Konkuk Univ.|Bachelor|2022-2|
+|2023 배리어프리 앱 개발 콘테스트|최우수상(현대오토에버 대표이사 상)|현대오토에버|Back-end Dev|2024.02|
+|알키미스트 미래혁신 아이디어 공모전|우수상(한국산업기술기획평가원장 상)|산업통상자원부|Participant|2024.05|
 
 </br>
 

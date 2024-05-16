@@ -86,6 +86,7 @@
 |OSSCA|Git 활용 및 Terraform on NAVER Cloud|Mentee|2024.04 ~ 2024.06|
 |과학기술정보통신부|ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 구축|Mentee|2024.04 ~ 2024.11|
 
+
 <b>🏆Prizes🏆</b>
 |Contest|Grade|Organization|Position|Date|
 |:----:|:----:|:----:|:----:|:----:|
@@ -120,6 +121,15 @@
 
   
 </br>
+
+<b>✏️Participating studies✏️</b>
+  <p align="center">
+  Algorithm Study GPGT (2023.04.02 ~ ) ---> <a href= "https://randps.kr/home">our site</a> <br> 
+  KonCC Book Study, (Effective Java now) (2023.07.04 ~ ) ---> <a href="https://github.com/KonCC">repository</a><br>
+  Devotion OpenLab Kubernetes Study (2024.05.16 ~ ) <br>
+  Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (Upcoming) 
+
+
 <b>🤝Contribution🤝</b></p>
   <p align="center">
  <a href="https://github.com/schollz/progressbar">
@@ -132,7 +142,7 @@
  </p>
  </br>
  
-<p align="center"> <b>✍️Algorithm Study✍️</b></p>
+<p align="center"> <b>✍️BOJ Rank✍️</b></p>
 <div class="container" align=center style="display:flex; justify-content:center;">
   <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
 <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazandi.herokuapp.com/api?handle=eogns47&theme=cold"/></a>

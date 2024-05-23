@@ -1,24 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20github😸&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20Space😸&fontSize=50)
 
 <!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>-->
+💼Career💼
+* 건국대학교 컴퓨터공학과 재학 (2019.03 ~ 2025.02(예정))
+* (주)포테이토넷 SW개발팀 인턴 (2023.12 ~ 2024.02)
+* (주)씨티아이앤씨 인프라팀 인턴 (2024.03 ~ )
+
+<br>
+
+🏃Experiences🏃 
+* 건국대학교 알고리즘 동아리 ALKON 1기 운영진,멘토 (2023.03 ~ 2023.07)
+* 과학기술정보통신부 주관 ICT 멘토링 : IP 카메라&클라우드 기반 해상물류 창고 관리 시스템 프로젝트 (2023.04 ~ 2023.11)
+* 시각장애인을 위한 학사정보 앱 Blinder 백엔드&인프라 개발 (2023.06 ~ now)
+* 오픈소스컨트리뷰톤 Git 활용 및 DevOps/MLOps 멘티 (2023.09 ~ 2023.11)
+* 우테코6th Precourse 백엔드 (2023.09 ~ 2023.11)
+* 한국공학한림원 산하 차세대 공학리더 YEHS 기획 1부 차장 (2023.09 ~ now)
+* SK Telecom Devocean Young 3기 (2024.02 ~ now)
+* 오픈소스컨트리뷰톤 Git 활용 및 Terraform on NAVER Cloud 멘티 (2024.04 ~ 2024.05)
+* 과학기술정보통신부 주관 ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 (2024.04 ~ now)
+
+<br>
+
+🏆Prizes🏆
+* 건국대학교 성적 우수 장학 Dean's List (2022 fall semester)
+* 2023 배리어프리 앱 개발 콘테스트 최우수상(현대오토에버 대표이사 상) (2024.02)
+* 2024 알키미스트 미래혁신 아이디어 공모전 우수상(한국산업기술기획평가원장 상) (2024.05)
+
+<br>
+
+🪪Credentials🪪
+* Topcit : Competent Grade (2023.10)
+* ISTQB : CTFL (2024.01)
+* SQLD (2024.03)
+
+<br>
+
+✏️Participating studies✏️
+* Algorithm Study GPGT (2023.04.02 ~ ) ---> our site
+* KonCC Book Study, (Effective Java now) (2023.07.04 ~ ) ---> repository
+* Devotion OpenLab Kubernetes Study (2024.05.16 ~ )
+* Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (Upcoming)
+
+<br>
+
 <div align="center">
 
-<h2 align="center"> Taking a degree course in CSE at KONKUK UNIV!</h2>
 
-<!--
-**eogns47/eogns47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-<b>Here are some ideas to get you started:</b>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center"> <b>✏️Experienced Platforms & Languages✏️</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
@@ -68,7 +96,7 @@
   </br>
   </br>
   
-
+<!--
 <b>🪪Experiences🪪</b>
 
 |Organization|department|Position|Date|
@@ -104,7 +132,7 @@
 |Topcit|Competent|정보통신기획평가원|2023.10|
 
 </br>
-
+-->
 
 
 

@@ -43,12 +43,18 @@
 
 <br>
 
-<div align="center">
+🤝Contribution🤝
+ * <a href="https://github.com/schollz/progressbar">
+   📈progressbar in golang</a>
+* <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone  </a>
+* <a href="https://github.com/tldr-pages/tldr">📚 Collaborative cheatsheets for console commands</a>
+* <a href="https://github.com/EbookFoundation/free-programming-books">📚 Freely available programming books</a>
+* <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a>
 
+<br>
 
-
-<p align="center"> <b>✏️Experienced Platforms & Languages✏️</b></p>
-<p align="center">
+<div align="left">
+<b>✏️Experienced Platforms & Languages✏️</b> <br><br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -72,7 +78,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 </p>
 
-<p align="center"><b>🛠️Tools🛠️</b></p>
+<b>🛠️Tools🛠️</b> <br><br>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij%20idea-000000?style=flat&logo=intellij%20idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -84,14 +90,14 @@
 </br>
 </br>
 
-<p align="center"><b>🌱currently Learning...🌱</b></p>
+<b>🌱currently Learning...🌱</b><br><br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>
       
   </br>
   </br>
@@ -132,7 +138,6 @@
 |Topcit|Competent|정보통신기획평가원|2023.10|
 
 </br>
--->
 
 
 
@@ -149,15 +154,9 @@
 
   
 </br>
+ -->
 
-<b>✏️Participating studies✏️</b>
-  <p align="center">
-  Algorithm Study GPGT (2023.04.02 ~ ) ---> <a href= "https://randps.kr/home">our site</a> <br> 
-  KonCC Book Study, (Effective Java now) (2023.07.04 ~ ) ---> <a href="https://github.com/KonCC">repository</a><br>
-  Devotion OpenLab Kubernetes Study (2024.05.16 ~ ) <br>
-  Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (Upcoming) 
-
-
+<!--
 <b>🤝Contribution🤝</b></p>
   <p align="center">
  <a href="https://github.com/schollz/progressbar">
@@ -169,6 +168,8 @@
     <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a>&nbsp</br>
  </p>
  </br>
+
+-->
  
 <p align="center"> <b>✍️BOJ Rank✍️</b></p>
 <div class="container" align=center style="display:flex; justify-content:center;">

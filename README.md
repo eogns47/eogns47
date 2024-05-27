@@ -36,8 +36,8 @@
 <br>
 
 ✏️Participating studies✏️
-* Algorithm Study GPGT (2023.04.02 ~ ) ---> our site
-* KonCC Book Study, (Effective Java now) (2023.07.04 ~ ) ---> repository
+* Algorithm Study GPGT (2023.04.02 ~ ) ---> [our site](https://randps.kr/home)
+* KonCC Book Study, (Effective Java now) (2023.07.04 ~ ) ---> [repository](https://github.com/KonCC)
 * Devotion OpenLab Kubernetes Study (2024.05.16 ~ )
 * Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (Upcoming)
 

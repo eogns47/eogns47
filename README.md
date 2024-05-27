@@ -11,13 +11,13 @@
 🏃Experiences🏃 
 * 건국대학교 알고리즘 동아리 ALKON 1기 운영진,멘토 (2023.03 ~ 2023.07)
 * 과학기술정보통신부 주관 ICT 멘토링 : IP 카메라&클라우드 기반 해상물류 창고 관리 시스템 프로젝트 (2023.04 ~ 2023.11)
-* 시각장애인을 위한 학사정보 앱 Blinder 백엔드&인프라 개발 (2023.06 ~ now)
+* 시각장애인을 위한 학사정보 앱 Blinder 백엔드&인프라 개발 (2023.06 ~ ${\textsf{\color{green}now}}$)
 * 오픈소스컨트리뷰톤 Git 활용 및 DevOps/MLOps 멘티 (2023.09 ~ 2023.11)
 * 우테코6th Precourse 백엔드 (2023.09 ~ 2023.11)
-* 한국공학한림원 산하 차세대 공학리더 YEHS 기획 1부 차장 (2023.09 ~ now)
-* SK Telecom Devocean Young 3기 (2024.02 ~ now)
+* 한국공학한림원 산하 차세대 공학리더 YEHS 기획 1부 차장 (2023.09 ~ ${\textsf{\color{green}now}}$)
+* SK Telecom Devocean Young 3기 (2024.02 ~ ${\textsf{\color{green}now}}$)
 * 오픈소스컨트리뷰톤 Git 활용 및 Terraform on NAVER Cloud 멘티 (2024.04 ~ 2024.05)
-* 과학기술정보통신부 주관 ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 (2024.04 ~ now)
+* 과학기술정보통신부 주관 ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 (2024.04 ~ ${\textsf{\color{green}now}}$)
 
 <br>
 
@@ -36,9 +36,9 @@
 <br>
 
 ✏️Participating studies✏️
-* Algorithm Study GPGT (2023.04.02 ~ ) ---> [our site](https://randps.kr/home)
-* KonCC Book Study, (Effective Java now) (2023.07.04 ~ ) ---> [repository](https://github.com/KonCC)
-* Devotion OpenLab Kubernetes Study (2024.05.16 ~ )
+* Algorithm Study GPGT (2023.04.02 ~ ${\textsf{\color{green}now}}$) ---> [our site](https://randps.kr/home)
+* KonCC Book Study, (Effective Java now) (2023.07.04 ~ ${\textsf{\color{green}now}}$) ---> [repository](https://github.com/KonCC)
+* Devotion OpenLab Kubernetes Study (2024.05.16 ~ ${\textsf{\color{green}now}}$)
 * Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (Upcoming)
 
 <br>

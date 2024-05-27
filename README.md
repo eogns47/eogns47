@@ -98,6 +98,8 @@
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/terraform-844FBA?style=flat&logo=terraform&logoColor=white"/></a>
+      
       
   </br>
   </br>

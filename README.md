@@ -4,7 +4,7 @@
 💼Career💼
 * 건국대학교 컴퓨터공학과 재학 (2019.03 ~ 2025.02(예정))
 * (주)포테이토넷 SW Dev team Intern (2023.12 ~ 2024.02)
-* (주)씨티아이앤씨 Infra Structure team Intern (2024.03 ~ )
+* (주)씨티아이앤씨 Infra Structure team Intern (2024.03 ~ ${\textsf{\color{green}now}}$)
 
 <br>
 

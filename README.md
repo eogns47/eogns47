@@ -45,9 +45,9 @@
 
 🤝Contribution🤝
  * <a href="https://github.com/schollz/progressbar">
-   📈progressbar in golang</a>
-* <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone  </a>
-* <a href="https://github.com/tldr-pages/tldr">📚 Collaborative cheatsheets for console commands</a>
+   📈progressbar in golang : readme 라이브러리 버전 명시</a>
+* <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone : UDP socket resize </a>
+* <a href="https://github.com/tldr-pages/tldr">📚 Collaborative cheatsheets for console commands </a>
 * <a href="https://github.com/EbookFoundation/free-programming-books">📚 Freely available programming books</a>
 * <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a>
 
@@ -90,7 +90,7 @@
 </br>
 </br>
 
-<b>🌱currently Learning...🌱</b><br><br>
+<b>🌱currently interesting...🌱</b><br><br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>

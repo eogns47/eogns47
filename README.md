@@ -45,11 +45,10 @@
 
 🤝Contribution🤝
  * <a href="https://github.com/schollz/progressbar">
-   📈progressbar in golang : readme 라이브러리 버전 명시</a>
-* <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone : UDP socket resize </a>
-* <a href="https://github.com/tldr-pages/tldr">📚 Collaborative cheatsheets for console commands </a>
-* <a href="https://github.com/EbookFoundation/free-programming-books">📚 Freely available programming books</a>
-* <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a>
+   📈progressbar in golang </a> : readme 라이브러리 버전 명시
+* <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone </a> : UDP socket resize 
+* <a href="https://github.com/tldr-pages/tldr">📚 Collaborative cheatsheets for console commands</a> : 문서 한글화
+* <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a> : 탈자 수정
 
 <br>
 

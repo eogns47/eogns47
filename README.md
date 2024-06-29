@@ -18,6 +18,7 @@
 * SK Telecom Devocean Young 3기 (2024.02 ~ ${\textsf{\color{green}now}}$)
 * 오픈소스컨트리뷰톤 Git 활용 및 Terraform on NAVER Cloud 멘티 (2024.04 ~ 2024.05)
 * 과학기술정보통신부 주관 ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 (2024.04 ~ ${\textsf{\color{green}now}}$)
+* Samsung Open Source Companions 5기 (2024.07 ~ ${\textsf{\color{green}now}}$)
 
 <br>
 

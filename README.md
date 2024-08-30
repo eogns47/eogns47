@@ -37,10 +37,10 @@
 <br>
 
 ✏️Participating studies✏️
-* Algorithm Study GPGT (2023.04.02 ~ ${\textsf{\color{green}now}}$) ---> [our site](https://randps.kr/home)
-* KonCC Book Study, (Effective Java now) (2023.07.04 ~ ${\textsf{\color{green}now}}$) ---> [repository](https://github.com/KonCC)
-* Devotion OpenLab Kubernetes Study (2024.05.16 ~ ${\textsf{\color{green}now}}$)
-* Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (2024.06.16 ~ ${\textsf{\color{green}now}}$)
+* Algorithm Study GPGT (2023.04 ~ ${\textsf{\color{green}now}}$) ---> [our site](https://randps.kr/home)
+* KonCC Book Study, (Effective Java now) (2023.07 ~ 2024.08) ---> [repository](https://github.com/KonCC)
+* Devotion OpenLab Kubernetes Study (2024.05 ~ ${\textsf{\color{green}now}}$)
+* Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (2024.06 ~ ${\textsf{\color{green}now}}$)
 
 <br>
 

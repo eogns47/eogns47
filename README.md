@@ -2,7 +2,6 @@
 
 <!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>-->
 💼Career💼
-* 건국대학교 컴퓨터공학과 재학 (2019.03 ~ 2025.02(예정))
 * (주)포테이토넷 SW Dev team Intern (2023.12 ~ 2024.02)
 * (주)씨티아이앤씨 Infra Structure team Intern (2024.03 ~ 2024.06)
 
@@ -45,6 +44,7 @@
 <br>
 
 🤝Contribution🤝
+* <a href="https://github.com/argoproj/argo-cd">♾️Argo CD</a> : error 로그 개선 
  * <a href="https://github.com/schollz/progressbar">
    📈progressbar in golang </a> : readme 라이브러리 버전 명시
 * <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone </a> : UDP buffer resize 

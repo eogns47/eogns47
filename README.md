@@ -32,6 +32,7 @@
 * Topcit : Competent Grade (2023.10)
 * ISTQB CTFL (2024.01)
 * SQLD (2024.03)
+* 정보처리기사 (2024.09)
 
 <br>
 

@@ -13,11 +13,11 @@
 * 시각장애인을 위한 학사정보 앱 Blinder 백엔드&인프라 개발 (2023.06 ~ ${\textsf{\color{green}now}}$)
 * 오픈소스컨트리뷰톤 : Git 활용 및 DevOps/MLOps 멘티 (2023.09 ~ 2023.11)
 * 한국공학한림원 산하 차세대 공학리더 YEHS 기획 1부 차장 (2023.09 ~ ${\textsf{\color{green}now}}$)
-* SK Telecom Devocean Young 3기 (2024.02 ~ ${\textsf{\color{green}now}}$)
+* SK Telecom Devocean Young 3기 (2024.02 ~ 2024.12)
 * 오픈소스컨트리뷰톤 : Git 활용 및 Terraform on NAVER Cloud 멘티 (2024.04 ~ 2024.05)
-* ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 (2024.04 ~ ${\textsf{\color{green}now}}$)
+* ICT 멘토링 : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 (2024.04 ~ 2024.09)
 * Samsung Open Source Companions 5기 (2024.07 ~ ${\textsf{\color{green}now}}$)
-* 오픈소스컨트리뷰톤 : ArgoCD 멘티 (2024.07 ~ ${\textsf{\color{green}now}}$)
+* 오픈소스컨트리뷰톤 : ArgoCD 멘티 (2024.07 ~ 2024.11)
 
 <br>
 
@@ -25,6 +25,7 @@
 * 건국대학교 성적 우수 장학 Dean's List (2022 fall semester)
 * 2023 배리어프리 앱 개발 콘테스트 최우수상(현대오토에버 대표이사 상) (2024.02)
 * 2024 알키미스트 미래혁신 아이디어 공모전 우수상(한국산업기술기획평가원장 상) (2024.05)
+* 2024 오픈소스컨트리뷰톤 우수상(정보통신산업진흥원장 상) (2024.11)
 
 <br>
 
@@ -40,12 +41,13 @@
 * Algorithm Study GPGT (2023.04 ~ ${\textsf{\color{green}now}}$) ---> [our site](https://randps.kr/home)
 * KonCC Book Study, (Effective Java now) (2023.07 ~ 2024.08) ---> [repository](https://github.com/KonCC)
 * Devotion OpenLab Kubernetes Study (2024.05 ~ ${\textsf{\color{green}now}}$)
-* Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (2024.06 ~ ${\textsf{\color{green}now}}$)
+* Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (2024.06 ~ 2024.09)
+* KonCC CS Study (OS, Network, Database) (2024.09 ~ ${\textsf{\color{green}now}}$)
 
 <br>
 
 🤝Contribution🤝
-* <a href="https://github.com/argoproj/argo-cd">♾️Argo CD</a> : error 로그 개선 
+* <a href="https://github.com/argoproj/argo-cd">♾️Argo CD</a> : Improved error handling, Fix helm bug
  * <a href="https://github.com/schollz/progressbar">
    📈progressbar in golang </a> : readme 라이브러리 버전 명시
 * <a href="https://github.com/DNSSpy/zone-nameservers"> 🛜Walk the DNS tree to find which nameservers a particular zone </a> : UDP buffer resize 

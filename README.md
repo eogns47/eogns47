@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20Space😸&fontSize=50)
 
-<!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>-->
+<!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>
 💼Career💼
 * (주)포테이토넷 SW Dev team Intern (2023.12 ~ 2024.02)
 * (주)씨티아이앤씨 Infra Structure team Intern (2024.03 ~ 2024.06)
 
+<!--
 <br>
 
 🏃Experiences🏃 
@@ -38,8 +39,8 @@
 <br>
 
 ✏️Participating studies✏️
-* Algorithm Study GPGT (2023.04 ~ 2024.12) ---> [our site](https://randps.kr/home)
-* KonCC Book Study, (Effective Java now) (2023.07 ~ 2024.08) ---> [repository](https://github.com/KonCC)
+* Algorithm Study GPGT (2023.04 ~ 2024.12) ➡️ [our site](https://randps.kr/home)
+* KonCC Book Study, (Effective Java now) (2023.07 ~ 2024.08) ➡️ [repository](https://github.com/KonCC)
 * Devotion OpenLab Kubernetes Study (2024.05 ~ 2024.12)
 * Devotion Young Book Study, (클라우드 네이티브 스프링 인 액션) (2024.06 ~ 2024.09)
 * KonCC CS Study (OS, Network, Database) (2024.09 ~ 2024.12)
@@ -55,8 +56,12 @@
 * <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a> : 탈자 수정
 
 <br>
+-->
 
-<div align="left">
+<br>
+<br>
+
+<div align="middle">
 <b>✏️Experienced Platforms & Languages✏️</b> <br><br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
@@ -175,20 +180,21 @@
  </br>
 
 -->
- 
+ <!--
 <p align="center"> <b>✍️BOJ Rank✍️</b></p>
 <div class="container" align=center style="display:flex; justify-content:center;">
   <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eogns47"></a>
 <a href="https://solved.ac/profile/eogns47"><img height=195 src="http://mazandi.herokuapp.com/api?handle=eogns47&theme=cold"/></a>
   <br>
   <br>
-<!--  <img src="https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif")/> -->
+<!--  <img src="https://user-images.githubusercontent.com/102205852/203924721-961537bb-8314-44af-b30d-3627c879c683.gif")/> 
    </div>
    <p align="center">
 
 </div>
 
 <p align="center"> <b>🥳Holopin Badges🥳</b></p>
+-->
   
 [![An image of @eogns47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eogns47)](https://holopin.io/@eogns47)
 

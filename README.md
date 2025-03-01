@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20Space😸&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KangManJoo's%20Space😸&fontSize=50)
 
 <!--<h1 align="center"> Here is <p color:'red'>KangManJoo's github😺</h1>
 💼Career💼
@@ -56,7 +56,6 @@
 * <a href="https://github.com/saseungmin/reading_books_record_repository">📚 책을 읽고 정리합니다. 📖 Summary of Books </a> : 탈자 수정
 
 <br>
--->
 
 <br>
 <br>
@@ -70,14 +69,12 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp 
     <br>
-<!--     Framework and others -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
   </br>
-<!--   DB -->
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -194,7 +191,7 @@
 </div>
 
 <p align="center"> <b>🥳Holopin Badges🥳</b></p>
--->
   
 [![An image of @eogns47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eogns47)](https://holopin.io/@eogns47)
 
+-->
